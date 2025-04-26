@@ -18,6 +18,8 @@ Hi I am Shreyas Bhat a fullstack mobile app and web developer from India!<br>Cur
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![Profile Views](https://komarev.com/ghpvc/?username=shreyasvbhat&color=blue)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shreyasvbhat&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
