@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I am Shreyas Bhat a fullstack mobile app and web developer from India!<br>Currently working on some complex projects based on web!
+Hi I am Shreyas Bhat a fullstack mobile app and web developer from India!<br>You can reach out to me on LinkedIn or through mail for anything!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shreyasvbhat&color=blue)
 
